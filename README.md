@@ -1,5 +1,5 @@
-# 3-Przetwarzanie-Sygnalow-i-Obrazow-03-Py
-Zadanie 3cie z PSów PSiO z Sławomirem Zielińskim
+# 3-Przetwarzanie-Sygnalow-i-Obrazow-05-Py
+Zadanie 5te z PSów PSiO z Sławomirem Zielińskim
 
 Cez: https://cez2.wi.pb.edu.pl/moodle/mod/assign/view.php?id=25879
 
